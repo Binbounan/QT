@@ -1,0 +1,18 @@
+# ninja log v5
+2	1138	7282033550095456	clasesyobjetos_autogen/timestamp	3e4c4523fcd87c8a
+2	1138	7282033550095456	clasesyobjetos_autogen/mocs_compilation.cpp	3e4c4523fcd87c8a
+2	1138	7282033550095456	C:/Users/Nancy Quintero/Documents/build-clasesyobjetos-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/clasesyobjetos_autogen/timestamp	3e4c4523fcd87c8a
+2	1138	7282033550095456	C:/Users/Nancy Quintero/Documents/build-clasesyobjetos-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/clasesyobjetos_autogen/mocs_compilation.cpp	3e4c4523fcd87c8a
+1151	2701	7282033562816009	CMakeFiles/clasesyobjetos.dir/neurona.cpp.obj	b8be3075c40970a3
+1156	3068	7282033570782799	CMakeFiles/clasesyobjetos.dir/adminn.cpp.obj	dc20035b9e7ee090
+1141	3902	7282033579131892	CMakeFiles/clasesyobjetos.dir/main.cpp.obj	e35241e2bcb9e60f
+1146	3944	7282033579442858	CMakeFiles/clasesyobjetos.dir/clasesyobjetos_autogen/mocs_compilation.cpp.obj	9423b96f429840ce
+1161	4028	7282033580337572	CMakeFiles/clasesyobjetos.dir/mainwindow.cpp.obj	ca234111754c88cc
+4028	4297	7282033582972540	clasesyobjetos.exe	f07349614aa39e1e
+5	157	7282039290801449	clasesyobjetos_autogen/timestamp	3e4c4523fcd87c8a
+5	157	7282039290801449	clasesyobjetos_autogen/mocs_compilation.cpp	3e4c4523fcd87c8a
+5	157	7282039290801449	C:/Users/Nancy Quintero/Documents/build-clasesyobjetos-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/clasesyobjetos_autogen/timestamp	3e4c4523fcd87c8a
+5	157	7282039290801449	C:/Users/Nancy Quintero/Documents/build-clasesyobjetos-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/clasesyobjetos_autogen/mocs_compilation.cpp	3e4c4523fcd87c8a
+172	635	7282039295579966	CMakeFiles/clasesyobjetos.dir/neurona.cpp.obj	b8be3075c40970a3
+176	2165	7282039310867329	CMakeFiles/clasesyobjetos.dir/mainwindow.cpp.obj	ca234111754c88cc
+2166	2309	7282039312308547	clasesyobjetos.exe	f07349614aa39e1e
